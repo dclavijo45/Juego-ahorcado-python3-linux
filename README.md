@@ -1,1 +1,9 @@
-# Juego-ahorcado-python3-linux
+# Juego de ahorado en python3.X en consola.
+
+## Optimizado sólo para linux.
+
+### Se podrá cargar en windows pero habrán problemas en los colores y codigo nada agradable.
+
+- INSTRUCCIONES:
+    - Python3 game.py
+    - Jugar :3
