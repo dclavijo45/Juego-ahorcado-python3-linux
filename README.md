@@ -1,4 +1,4 @@
-# Juego de ahorado en python3.X en consola.
+# Juego de ahorcado en python3.X en consola.
 
 ## Optimizado sólo para linux.
 
